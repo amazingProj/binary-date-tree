@@ -1,0 +1,19 @@
+{
+  "name": "binary-date-tree",
+  "version": "1.0.0",
+  "description": "Dates manipulations",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amazingProj/binary-date-tree.git"
+  },
+  "author": "a-d-h",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amazingProj/binary-date-tree/issues"
+  },
+  "homepage": "https://github.com/amazingProj/binary-date-tree#readme"
+}
